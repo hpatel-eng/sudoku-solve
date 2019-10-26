@@ -1,0 +1,14 @@
+.singleVal {
+    border:1px solid black;
+    font-size:30px;
+    text-align:center;
+    flex-grow: 1;
+    width:48px;
+    height:48px;
+    margin: 0;
+    padding: 0;
+}
+
+.singleVal:focus {
+    outline: none;
+}
